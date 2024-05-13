@@ -1,5 +1,5 @@
 .cabeçalho_lista {
-    background-color: rgb(0, 0, 0);
+    background-color: green;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -8,10 +8,10 @@
     font-size: 24px;
     }
     
-    .background-image: url(https://www.shutterstock.com/image-illustration/many-blue-yellow-volleyballs-volleyball-260nw-629902100.jpg);
+    .cabeçalho_imagem {
     width: 25%;
     height: 25%;
-    
+    }
     
     .itens{
     display: inline-block;
